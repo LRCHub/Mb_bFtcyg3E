@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もしも（feat. マス）",
+  "base_artist": "MIMI",
+  "createdAt": "2026-02-26T04:17:20.669005Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もしも (feat. マス)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_もしも_(feat._マス)_MIMI.txt"
+    }
+  ]
+}
